@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Stringpalindrome {
 
 	public static void main(String[] args) {
-		System.out.println("enter the string u want to check for plaindrome  :bh");	
+		System.out.println("enter the string u want to check for plaindrome  :");	
 		Scanner sc=new Scanner(System.in);
 		String ss=sc.next();
 		

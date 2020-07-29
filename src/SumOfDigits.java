@@ -18,7 +18,7 @@ System.out.print("Enter the number for which u need the sum of its digits   :");
 
 		System.out.println("the sum of the digits is "+sum);
 		System.out.println("hello github");
-		System.out.println("hello fffjfjfn");
+		
 	
 	}
 

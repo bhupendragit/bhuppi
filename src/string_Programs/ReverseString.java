@@ -13,7 +13,7 @@ public class ReverseString {
 		System.out.println(buff);
 		
 		System.out.println("*****USing toCharArray()");
-		String str1="Aboli";
+		String str1="Bisht";
 		char rev[]=str1.toCharArray();
 		int len2=rev.length;
 		System.out.println(len2);
